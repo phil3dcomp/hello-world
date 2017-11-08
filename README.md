@@ -1,2 +1,3 @@
 # hello-world
 hello-world repository and practice with GitHub
+Hello everyone. Phil here. I am a graphic designer and was studying to move into web design way back in 2010. But an opportunity came along and I ended up doing VFX work for feature films. I did that until this year (2017) when the company moved all our jobs to a foreign country and let our entire Hollywood facility go. I'm tired of the big egos, greed, and abuse. I've moved back to San Diego and I'm going back to web design/dev. Hopefully this will pan out a little better. HTML and CSS has changed a bit over the last few years. I had a good handle on PHP/MySQL, but JavaScript has always given me a headache.
